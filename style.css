@@ -213,7 +213,7 @@ section .title::after{
 .about .about-content .right a{
     display: inline-block;
     background: #134361;
-    color: #fff;
+    color: rgb(255, 255, 255);
     font-size: 20px;
     font-weight: 500;
     padding: 10px 30px;
@@ -269,6 +269,7 @@ section .title::after{
     font-size: 70px;
     color: #134361;
 }
+
 .services .serv-content .card:hover ion-icon{
     color: #fff;
 }
