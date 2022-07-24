@@ -16,13 +16,13 @@ $(document).ready(function(){
      });
 
      var typed = new Typed(".typing", {
-         strings:["João Bernardo", "ou Ayla"],
+         strings:["Bernardo", "ou Ayla Beatriz"],
          typeSpeed:100,
          backSpeed:60,
          loop:true
      });
      var typed = new Typed(".typing-2", {
-        strings:["João Bernardo", "ou Ayla"],
+        strings:["Bernardo", "ou Ayla Beatriz"],
         typeSpeed:100,
         backSpeed:60,
         loop:true
