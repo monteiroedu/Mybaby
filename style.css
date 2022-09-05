@@ -73,7 +73,7 @@ html{
     color: #AA49AD;
     min-height: 500px;
     font-family: 'Ubuntu', sans-serif;
-}
+    }
 .home .max-width{
     margin: auto 0 auto 40px;
 }
@@ -81,7 +81,7 @@ html{
     font-size: 27px;
 }
 .home .home-content .text-2{
-    font-size: 75px;
+    font-size: 65px;
     font-weight: 500;
     margin-left: -3px;
 }

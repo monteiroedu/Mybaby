@@ -16,13 +16,13 @@ $(document).ready(function(){
      });
 
      var typed = new Typed(".typing", {
-         strings:["Aylla"],
+         strings:["Aylla Freire Monteiro"],
          typeSpeed:100,
          backSpeed:60,
          loop:true
      });
      var typed = new Typed(".typing-2", {
-        strings:["Aylla"],
+        strings:["Aylla Freire Monteiro"],
         typeSpeed:100,
         backSpeed:60,
         loop:true
